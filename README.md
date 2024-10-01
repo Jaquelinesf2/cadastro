@@ -14,8 +14,4 @@ Este projeto é uma página de login e cadastro simples, desenvolvida com HTML, 
 - Opções de login com redes sociais (placeholder).
 - Transição suave entre os formulários de login e cadastro.
 
-## Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
